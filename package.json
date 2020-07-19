@@ -52,7 +52,7 @@
     "pre-commit": "^1.2.2",
     "raw-loader": "^2.0.0",
     "react-ace": "^6.5.0",
-    "react-dom": "16.8.1",
+    "react-dom": "16.13.1",
     "react-hot-loader": "^4.6.5",
     "react-tap-event-plugin": "^3.0.3",
     "style-loader": "^0.23.1",
@@ -65,7 +65,7 @@
     "lodash.max": "^4.0.1",
     "lodash.min": "^4.0.1",
     "prop-types": "^15.5.8",
-    "react": "16.8.1",
+    "react": "16.13.1",
     "react-measure": "^2.2.4",
     "react-motion": "^0.5.2",
     "styled-components": "^4.1.3"
